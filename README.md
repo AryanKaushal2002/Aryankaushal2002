@@ -24,14 +24,14 @@
 <h2> 👨🏻‍💻A Little Bit About Me and My Interests</h2>
 
 ```yaml
-name: Aryan Kaushal
-located_in: Bhubaneswar,Odisha
+Name: Aryan Kaushal
+Located_in: Bhubaneswar,Odisha
 
-education:
+Education:
   [
     "Pursuing Bachelor's in Computer Science Engineering",
   ]  
-fields_of_interests:
+Fields_of_interests:
   [
     "Web Development",
     "Data Science",
@@ -40,9 +40,9 @@ fields_of_interests:
     "Java and Java Core",
   ]
   
-currently_learning: ["Python, Java Core and ML/AI"]
+Currently_learning: ["Python, Java Core and ML/AI"]
 Goals: ["Create 10+ Projects, get into a good college society and get an internship."]
-hobbies: ["Gaming", "Cinema", "Reading", "Art"]
+Hobbies: ["Gaming", "Cinema", "Reading", "Art"]
 ```
 
 ---
