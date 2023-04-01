@@ -11,9 +11,9 @@
       <a href="https://www.linkedin.com/in/aryan-kaushal-225536270/">
         <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png"/>
       </a>
-      <a href="https://leetcode.com/AryanKaushal2002/">
+      <!-- <a href="https://leetcode.com/AryanKaushal2002/">
   <img height="50" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3628885-3030025.png"/>
-</a>
+</a> --> 
 </p>
 <p align="center">
   <img height="300" width="500" src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif">
