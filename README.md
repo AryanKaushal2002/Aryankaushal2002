@@ -31,6 +31,7 @@ Education:
   [
     "Pursuing Bachelor's in Computer Science Engineering",
   ]  
+  
 Fields_of_interests:
   [
     "Web Development",
@@ -41,7 +42,9 @@ Fields_of_interests:
   ]
   
 Currently_learning: ["Python, Java Core and ML/AI"]
+
 Goals: ["Create 10+ Projects, get into a good college society and get an internship."]
+
 Hobbies: ["Gaming", "Cinema", "Reading", "Art"]
 ```
 
