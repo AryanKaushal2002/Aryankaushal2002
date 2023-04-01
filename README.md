@@ -1,11 +1,9 @@
 <p align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&height=200&section=header&text=Hello🕹️&fontSize=80" />
 </p>
-
 <h1 align="center">
   Let's Connect!💬
 </h1>
-
 <p align="center">      
       <a href="https://www.instagram.com/__aryankaushal/">
         <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
@@ -17,7 +15,6 @@
   <img height="50" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3628885-3030025.png"/>
 </a>
 </p>
-
 <p align="center">
   <img height="300" width="500" src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif">
 </p>
