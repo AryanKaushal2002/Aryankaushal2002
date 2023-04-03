@@ -43,7 +43,7 @@ Fields_of_interests:
   
 Currently_learning: ["Python, Java Core and ML/AI"]
 
-Goals: ["Create 10+ Projects, get into a good college society and get an internship."]
+Goals: ["Create 10+ Projects, work on my coding skills and get an internship."]
 
 Hobbies: ["Gaming", "Cinema", "Reading", "Art"]
 ```
