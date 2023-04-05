@@ -67,7 +67,7 @@ Hobbies: ["Gaming", "Cinema", "Reading", "Art"]
 
 ---
 
-<h2> 📈 &nbsp;My GitHub History!</h2>
+<h2> 📈 &nbsp;Watch the snake gobble up!</h2>
 
 ![Snake animation](https://github.com/AryanKaushal2002/My-Profile/blob/output/github-contribution-grid-snake.svg)
 
