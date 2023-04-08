@@ -71,7 +71,7 @@ Hobbies: ["Gaming", "Cinema", "Reading", "Art"]
 
 ![Snake animation](https://github.com/AryanKaushal2002/My-Profile/blob/output/github-contribution-grid-snake.svg)
 
-[![Top Langs](https://github-readme-stats-seven-liart.vercel.app/api/top-langs/?username=AryanKaushal2002)](https://github.com/AryanKaushal2002/github-readme-stats)
+[![Top Langs](https://github-readme-stats-seven-liart.vercel.app/api/top-langs/?username=AryanKaushal2002&layout=compact)](https://github.com/AryanKaushal2002/github-readme-stats)
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
