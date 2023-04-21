@@ -39,11 +39,12 @@ Fields_of_interests:
     "Machine Learning",
     "Game Development",
     "Java and Java Core",
+    "Cloud Computing"
   ]
   
 Currently_learning: ["Python, Java Core and ML/AI"]
 
-Goals: ["Create 5+ Projects, work on my coding skills and get an internship."]
+Goals: ["Deploy 5+ Projects, work on my coding skills , getting an internship."]
 
 Hobbies: ["Gaming", "Cinema", "Reading", "Art"]
 ```
