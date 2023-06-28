@@ -25,7 +25,7 @@
 
 ```yaml
 Name: Aryan Kaushal
-Located_in: Bhubaneswar,Odisha
+Located_in: India
 
 Education:
   [
