@@ -36,13 +36,12 @@ Fields_of_interests:
   [
     "Web Development",
     "Data Science",
-    "Machine Learning",
-    "Game Development",
-    "Java and Java Core",
+    "Machine Learning",   
+    "Data Analytics",
     "Cloud Computing"
   ]
   
-Currently_learning: ["Python, Java Core and ML/AI"]
+Currently_learning: ["Python, Java, React and ML/AI"]
 
 Goals: ["Deploy 5+ Projects, work on my coding skills , getting an internship."]
 
@@ -50,19 +49,20 @@ Hobbies: ["Gaming", "Cinema", "Reading", "Art"]
 ```
 
 ---
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2> 🚀 &nbsp;Some Languages and Tools I Have Learned and Used</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45" />          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45"/>          
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" /> -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45" height="45"/>          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45"/>         
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="45" height="45" />         
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>          
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>   -->    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="45" height="45"/>     
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="45" height="45" />              
  
 </p>
 
@@ -72,7 +72,7 @@ Hobbies: ["Gaming", "Cinema", "Reading", "Art"]
 
 ![Snake animation](https://github.com/AryanKaushal2002/My-Profile/blob/output/github-contribution-grid-snake.svg)
 
-[![Top Langs](https://github-readme-stats-seven-liart.vercel.app/api/top-langs/?username=AryanKaushal2002&layout=compact&hide_progress=true)](https://github.com/AryanKaushal2002/github-readme-stats)
+[![Top Langs](https://github-readme-stats-seven-liart.vercel.app/api/top-langs/?username=AryanKaushal2002&hide_progress=true)](https://github.com/AryanKaushal2002/github-readme-stats)
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
