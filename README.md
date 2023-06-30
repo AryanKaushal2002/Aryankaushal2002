@@ -5,10 +5,10 @@
   Let's Connect!💬
 </h1>
 <p align="center">      
-      <a href="https://www.instagram.com/__aryankaushal/" target='_blank'>
+      <a href="https://www.instagram.com/__aryankaushal/" >
         <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
       </a>
-      <a href="https://www.linkedin.com/in/aryan-kaushal/" target='_blank'>
+      <a href="https://www.linkedin.com/in/aryan-kaushal/" >
         <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png"/>
       </a>
       <!-- <a href="https://leetcode.com/AryanKaushal2002/">
