@@ -50,7 +50,7 @@ Hobbies: ["Gaming", "Cinema", "Reading", "Art"]
 
 ---
 <h2> 🚀 &nbsp;Some Languages and Tools I Have Learned and Used</h2>
-<p align="left">
+<p align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45" />          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
@@ -71,11 +71,15 @@ Hobbies: ["Gaming", "Cinema", "Reading", "Art"]
 
 ---
 
-<h2> 📈 &nbsp;Watch the snake gobble up!</h2>
+<h2> 🐍 &nbsp;Watch the snake gobble up!</h2>
 
 ![Snake animation](https://github.com/AryanKaushal2002/My-Profile/blob/output/github-contribution-grid-snake.svg)
 
-[![Top Langs](https://github-readme-stats-seven-liart.vercel.app/api/top-langs/?username=AryanKaushal2002&hide_progress=true)](https://github.com/AryanKaushal2002/github-readme-stats)
+<h2>📈 Stats </h2>
+
+[![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AryanKaushal2002&theme=2077)](https://github.com/AryanKaushal2002/github-readme-stats)
+[![Top Langs](https://github-readme-stats-seven-liart.vercel.app/api/top-langs/?username=AryanKaushal2002&hide_progress=true&theme=dracula)](https://github.com/AryanKaushal2002/github-readme-stats)
+<!--[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AryanKaushal2002&theme=2077)](https://github.com/AryanKaushal2002/github-readme-stats) -->
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
