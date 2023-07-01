@@ -77,9 +77,14 @@ Hobbies: ["Gaming", "Cinema", "Reading", "Art"]
 
 <h2>📈 Stats </h2>
 
-[![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AryanKaushal2002&theme=2077)](https://github.com/AryanKaushal2002/github-readme-stats)
-[![Top Langs](https://github-readme-stats-seven-liart.vercel.app/api/top-langs/?username=AryanKaushal2002&hide_progress=true&theme=dracula)](https://github.com/AryanKaushal2002/github-readme-stats)
+[![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AryanKaushal2002&theme=radical)](https://github.com/AryanKaushal2002/github-readme-stats)
+[![Top Langs](https://github-readme-stats-seven-liart.vercel.app/api/top-langs/?username=AryanKaushal2002&hide_progress=true&theme=radical)](https://github.com/AryanKaushal2002/github-readme-stats)
 <!--[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AryanKaushal2002&theme=2077)](https://github.com/AryanKaushal2002/github-readme-stats) -->
+
+<h2>⭐ Featured Repositories </h2>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AryanKaushal2002&repo=Multiple-Disease-Prediction-Model-Deployment-using-StreamLit&theme=radical)](https://github.com/AryanKaushal2002/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AryanKaushal2002&repo=Species-Classification-Model&theme=radical)](https://github.com/AryanKaushal2002/github-readme-stats)
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
