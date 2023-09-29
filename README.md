@@ -71,9 +71,12 @@ Hobbies: ["Gaming", "Cinema", "Reading", "Art"]
 
 ---
 
-<h2> 🐍 &nbsp;Watch the snake gobble up!</h2>
+<!-- <h2> 🐍 &nbsp;Watch the snake gobble up!</h2>
 
-![Snake animation](https://github.com/AryanKaushal2002/My-Profile/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AryanKaushal2002/My-Profile/blob/output/github-contribution-grid-snake.svg) -->
+<h2> My Badges!! </h2>
+
+[![My Badges](https://holopin.me/aryankaushal2002)](https://holopin.io/@aryankaushal2002)
 
 <h2>📈Language Stats </h2>
 
