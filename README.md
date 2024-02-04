@@ -55,12 +55,13 @@ Hobbies: ["Gaming", "Cinema", "Reading", "Art"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45" />          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45"/>          
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" /> -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="45" height="45" />         
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>          
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>   -->   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="45" height="45"/>    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45"/>           
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="45" height="45"/>     
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="45" height="45" />           
@@ -80,12 +81,11 @@ Hobbies: ["Gaming", "Cinema", "Reading", "Art"]
 
 <h2>📈Language Stats </h2>
 
-[![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AryanKaushal2002&theme=2077)](https://github.com/AryanKaushal2002/github-readme-stats)
-
+[![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AryanKaushal2002&theme=rose_pine)](https://github.com/AryanKaushal2002/github-readme-stats)
 
 <h2>📈GitHub Stats </h2>
 
-[![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AryanKaushal2002&theme=2077)](https://github.com/AryanKaushal2002/github-readme-stats)
+[![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AryanKaushal2002&theme=rose_pine)](https://github.com/AryanKaushal2002/github-readme-stats)
 
 
 <!-- [![Top Langs](https://github-readme-stats-seven-liart.vercel.app/api/top-langs/?username=AryanKaushal2002&hide_progress=true&theme=radical)](https://github.com/AryanKaushal2002/github-readme-stats)-->
