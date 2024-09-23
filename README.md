@@ -80,8 +80,11 @@ Hobbies: ["Gaming", "Cinema", "Reading", "Art"]
 [![My Badges](https://holopin.me/aryankaushal2002)](https://holopin.io/@aryankaushal2002)
 
 <h2>📈Language Stats </h2>
-
+<!--
 [![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AryanKaushal2002&theme=rose_pine)](https://github.com/AryanKaushal2002/github-readme-stats)
+-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanKaushal2002&layout=donut-vertical&langs_count=7&hide=Jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>📈GitHub Stats </h2>
 
