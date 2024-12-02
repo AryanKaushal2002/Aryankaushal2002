@@ -25,27 +25,18 @@
 
 ```yaml
 Name: Aryan Kaushal
-Located_in: India
 
 Education:
   [
     "Pursuing Bachelor's in Computer Science Engineering",
   ]  
   
-Fields_of_interests:
+Current_Fields_of_interests:
   [
     "Web Development",
-    "Data Science",
     "Machine Learning",   
-    "Data Analytics",
-    "Cloud Computing"
   ]
-  
-Currently_learning: ["Python, Java, React and ML/AI"]
 
-Goals: ["Deploy 5+ Projects, work on my coding skills , getting an internship."]
-
-Hobbies: ["Gaming", "Cinema", "Reading", "Art"]
 ```
 
 ---
