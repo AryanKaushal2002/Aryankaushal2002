@@ -21,7 +21,7 @@
 
 ---
 
-<h2> 👨🏻‍💻A Little Bit About Me and My Interests</h2>
+<h2> 👨🏻‍💻A Little Bit About Me</h2>
 
 ```yaml
 Name: Aryan Kaushal
